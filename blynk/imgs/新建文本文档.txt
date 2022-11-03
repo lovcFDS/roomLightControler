@@ -1,4 +1,0 @@
-<appSettings>
-    <add key="ServerUrlKey" value="http://blynk-cloud.com/"/>
-    <add key="AuthKey" value="c20b792a8b464a02a40e6f0392279b71"/>
-  </appSettings>
