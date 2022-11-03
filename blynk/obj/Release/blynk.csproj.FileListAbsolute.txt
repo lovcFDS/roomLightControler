@@ -1,0 +1,9 @@
+C:\Users\李光辉\source\repos\blynk\blynk\bin\Release\blynk.exe.config
+C:\Users\李光辉\source\repos\blynk\blynk\bin\Release\blynk.exe
+C:\Users\李光辉\source\repos\blynk\blynk\bin\Release\blynk.pdb
+C:\Users\李光辉\source\repos\blynk\blynk\obj\Release\blynk.Form1.resources
+C:\Users\李光辉\source\repos\blynk\blynk\obj\Release\blynk.Properties.Resources.resources
+C:\Users\李光辉\source\repos\blynk\blynk\obj\Release\blynk.csproj.GenerateResource.cache
+C:\Users\李光辉\source\repos\blynk\blynk\obj\Release\blynk.exe
+C:\Users\李光辉\source\repos\blynk\blynk\obj\Release\blynk.pdb
+C:\Users\李光辉\source\repos\blynk\blynk\obj\Release\blynk.csprojAssemblyReference.cache

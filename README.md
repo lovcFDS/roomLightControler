@@ -1,0 +1,2 @@
+# roomLightControler
+连接Blynk Server用以控制卧室的灯，使用了Blynk提供的Http接口，使用get方式进行请求可以获取或者控制灯的状态和亮灭。
